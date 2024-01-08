@@ -112,5 +112,5 @@ def error():
         return f"Unfortunately {error_message}"
     return f"Error Occured, Message: {error_message}"
 
-if  __name__ = '__main__':
+if  __name__ == '__main__':
     app.run()
